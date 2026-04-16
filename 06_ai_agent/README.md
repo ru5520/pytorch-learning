@@ -95,3 +95,6 @@ pip install torch torchvision pandas numpy scikit-learn
 # 运行示例
 python 03_mnist/01_mnist.py
 python 03_mnist/03_resnet.py
+
+
+
